@@ -1,5 +1,7 @@
 # F-4 Phantom (J79) Lighting Simulator
 
+#Scott Douglass, May 2026. Use and Enjoy. 
+
 An Arduino-driven lighting rig for a Tamiya 1/32 F-4E Phantom II scale model.
 What started as basic cockpit lighting grew into a full, unattended flight
 lighting sequence that simulates a pair of J79 turbojets — from engine start
@@ -92,3 +94,7 @@ the sketch.
 3. Power up — all lights start off.
 4. Press the flight button to run the full sequence; press again anytime
    to abort back to shutdown.
+
+## Author
+
+Built by [Scott Douglass](https://github.com/Synaptechlabs) — [Synaptechlabs](https://github.com/Synaptechlabs).
