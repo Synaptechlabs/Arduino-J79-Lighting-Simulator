@@ -10,6 +10,18 @@ Working build in action: https://www.youtube.com/shorts/Dx7I5_5_uy8
 
 Sketch: [f4-flight-v1.ino](f4-flight-v1.ino) — April 2026.
 
+## Gallery
+
+<img src="assets/IMG_2015.jpeg" width="49%"> <img src="assets/IMG_2046.jpeg" width="49%">
+<img src="assets/IMG_2019.jpeg" width="49%"> <img src="assets/IMG_1902.jpeg" width="49%">
+
+Lit cockpit and afterburner cans during bench testing, before final
+assembly onto the display stand.
+
+Two bench-test clips of the sequence running: [IMG_1889.mov](assets/IMG_1889.mov), [IMG_1901.mov](assets/IMG_1901.mov)
+(GitHub's file viewer plays these directly; click through to watch, or see the
+[full flight video](https://www.youtube.com/shorts/Dx7I5_5_uy8) up top.)
+
 ## What it does
 
 One press of the flight button runs the entire sequence hands-free:
