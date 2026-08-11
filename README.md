@@ -1,6 +1,6 @@
 # F-4 Phantom (J79) Lighting Simulator
 
-#Scott Douglass, May 2026. Use and Enjoy. 
+# Scott Douglass, May 2026. Use and Enjoy. 
 
 An Arduino-driven lighting rig for a Tamiya 1/32 F-4E Phantom II scale model.
 What started as basic cockpit lighting grew into a full, unattended flight
